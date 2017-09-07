@@ -32,7 +32,7 @@
             // 
             // OpenHouseInfoPage
             // 
-            this.ClientSize = new System.Drawing.Size(426, 373);
+            this.ClientSize = new System.Drawing.Size(553, 413);
             this.Name = "OpenHouseInfoPage";
             this.ResumeLayout(false);
 
